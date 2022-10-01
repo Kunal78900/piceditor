@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:piceditor/home_screen.dart';
+import 'package:piceditor/screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,4 +19,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
